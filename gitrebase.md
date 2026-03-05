@@ -21,7 +21,7 @@ A---B---C---D'---E' (feature)
 ```
 your commits are re-applied on top of main.
 
-##Real Workflow 
+## Real Workflow 
 You are working on a branch:
 ```bash
 A---B---C------M (main)
